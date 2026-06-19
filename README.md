@@ -1,4 +1,4 @@
-# personal-movie-collection-manager
+# Personal-movie-collection-manager
 The Personal Movie Collection Manager is a desktop application developed to organize and manage a personal movie collection efficiently. The application provides a simple graphical interface through which movie records can be stored, viewed, updated, searched, and deleted. Information such as movie title, genre, release year, language, and rating is maintained in a database for easy access and management.
 
 The project was developed to demonstrate the implementation of CRUD (Create, Read, Update, Delete) operations and database connectivity in a real-world application. It also provides practical experience in GUI development, SQL query execution, and data management.
